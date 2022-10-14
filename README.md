@@ -1,2 +1,2 @@
 # bootcampx
-Repositorio para o bootcamp
+Repositorio para o bootcamp da Pottencial C#
